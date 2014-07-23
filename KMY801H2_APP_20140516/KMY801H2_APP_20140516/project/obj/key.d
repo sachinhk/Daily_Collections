@@ -1,0 +1,11 @@
+.\obj\key.o: ..\Application\key.c
+.\obj\key.o: ..\Application\key.h
+.\obj\key.o: ..\kmy_platform\kmy_KeyDrv.h
+.\obj\key.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\key.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\key.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\obj\key.o: ..\kmy_platform\kmy_LCDDrv.h
+.\obj\key.o: ..\kmy_platform\kmy_BeepDrv.h
+.\obj\key.o: ..\kmy_platform\kmy_Time.h
+.\obj\key.o: ..\Application\setting.h
+.\obj\key.o: ..\Application\my_stdint.h

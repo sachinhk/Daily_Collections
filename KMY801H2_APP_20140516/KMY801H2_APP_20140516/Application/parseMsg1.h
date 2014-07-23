@@ -1,0 +1,1 @@
+void cutMsg1(char Cmsg[1000]);

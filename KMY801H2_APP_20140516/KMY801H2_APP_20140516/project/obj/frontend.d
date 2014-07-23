@@ -1,0 +1,13 @@
+.\obj\frontend.o: ..\Application\frontend.c
+.\obj\frontend.o: ..\Application\frontend.h
+.\obj\frontend.o: ..\Application\key.h
+.\obj\frontend.o: ..\kmy_platform\kmy_KeyDrv.h
+.\obj\frontend.o: ..\Application\GlobalVar.h
+.\obj\frontend.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\frontend.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\frontend.o: ..\Application\my_stdint.h
+.\obj\frontend.o: ..\Application\InitializeModem.h
+.\obj\frontend.o: ..\Application\GlobalVariable.h
+.\obj\frontend.o: ..\Application\ReadFromModem.h
+.\obj\frontend.o: ..\Application\EepromFileSystem.h
+.\obj\frontend.o: ..\kmy_platform\kmy_EEPROMDrv.h

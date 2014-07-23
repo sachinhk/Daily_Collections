@@ -1,0 +1,4 @@
+---- kmy_USART1Drv Matches (3 in 3 files) ----
+801H2_IAP_ÐÞ¸Ä¼ÇÂ¼.txt:          kmy_USART1Drv.c => void kmy_USART1Init(unsigned long BaudRate).
+Main.c (application)://#include "kmy_USART1Drv.h"
+Stm32f10x_it.c (cmsis):#include "kmy_USART1Drv.h"

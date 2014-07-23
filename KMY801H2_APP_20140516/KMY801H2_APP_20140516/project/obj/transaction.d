@@ -1,0 +1,13 @@
+.\obj\transaction.o: ..\Application\Transaction.c
+.\obj\transaction.o: ..\Application\Transaction.h
+.\obj\transaction.o: ..\Application\lcd.h
+.\obj\transaction.o: ..\kmy_platform\kmy_LCDDrv.h
+.\obj\transaction.o: ..\Application\gprs.h
+.\obj\transaction.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\transaction.o: ..\Application\setting.h
+.\obj\transaction.o: ..\Application\my_stdint.h
+.\obj\transaction.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\transaction.o: ..\Application\key.h
+.\obj\transaction.o: ..\kmy_platform\kmy_KeyDrv.h
+.\obj\transaction.o: ..\Application\kmy_wifi.h
+.\obj\transaction.o: ..\Application\GlobalVar.h

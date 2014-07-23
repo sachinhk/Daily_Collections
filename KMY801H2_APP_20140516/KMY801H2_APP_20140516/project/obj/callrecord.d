@@ -1,0 +1,15 @@
+.\obj\callrecord.o: ..\Application\CallRecord.c
+.\obj\callrecord.o: ..\Application\CallRecord.h
+.\obj\callrecord.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\callrecord.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\callrecord.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\obj\callrecord.o: ..\Application\lcd.h
+.\obj\callrecord.o: ..\kmy_platform\kmy_LCDDrv.h
+.\obj\callrecord.o: ..\Application\FileOperate.h
+.\obj\callrecord.o: ..\Application\MenuOperate.h
+.\obj\callrecord.o: ..\Application\key.h
+.\obj\callrecord.o: ..\kmy_platform\kmy_KeyDrv.h
+.\obj\callrecord.o: ..\Application\main.h
+.\obj\callrecord.o: ..\Application\global_extern_variable.h
+.\obj\callrecord.o: ..\Application\my_stdint.h
+.\obj\callrecord.o: ..\Application\EepromFileSystem.h

@@ -1,0 +1,1 @@
+void StoreMSGToFile(char *,char *);

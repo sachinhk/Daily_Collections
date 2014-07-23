@@ -1,0 +1,11 @@
+.\obj\addmenu.o: ..\Application\addmenu.c
+.\obj\addmenu.o: ..\Application\Transaction.h
+.\obj\addmenu.o: ..\Application\popup.h
+.\obj\addmenu.o: ..\Application\GlobalVar.h
+.\obj\addmenu.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\addmenu.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\addmenu.o: ..\Application\my_stdint.h
+.\obj\addmenu.o: ..\kmy_platform\kmy_keydrv.h
+.\obj\addmenu.o: ..\Application\GlobalVariable.h
+.\obj\addmenu.o: ..\Application\selectmenu.c
+.\obj\addmenu.o: ..\Application\GlobalVar.h

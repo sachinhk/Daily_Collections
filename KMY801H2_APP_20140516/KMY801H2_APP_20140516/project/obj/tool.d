@@ -1,0 +1,16 @@
+.\obj\tool.o: ..\Application\Tool.c
+.\obj\tool.o: ..\Application\Tool.h
+.\obj\tool.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\tool.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\tool.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\obj\tool.o: ..\kmy_platform\kmy_Time.h
+.\obj\tool.o: ..\Application\key.h
+.\obj\tool.o: ..\kmy_platform\kmy_KeyDrv.h
+.\obj\tool.o: ..\Application\lcd.h
+.\obj\tool.o: ..\kmy_platform\kmy_LCDDrv.h
+.\obj\tool.o: ..\Application\main.h
+.\obj\tool.o: ..\Application\my_library.h
+.\obj\tool.o: ..\Application\gprs.h
+.\obj\tool.o: ..\Application\MenuOperate.h
+.\obj\tool.o: ..\Application\PhoneBook.h
+.\obj\tool.o: ..\Application\global_extern_variable.h

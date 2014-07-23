@@ -1,0 +1,1 @@
+void sigstrength(char string1[50], char CBC_strength1[50]);
